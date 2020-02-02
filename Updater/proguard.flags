@@ -1,0 +1,1 @@
+-keep class com.magma.updater.ui.FlingBehavior { *; }
